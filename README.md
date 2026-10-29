@@ -22,7 +22,7 @@ python process_sensor_data.py
 
 ## What It Does
 
-1. Loads CSV data
+1. Loads Excel data
 2. Cleans missing values
 3. Calculates averages by equipment
 4. Flags high temperature readings (>50°C)
